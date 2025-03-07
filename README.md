@@ -20,5 +20,5 @@ Sistema de gestión de reservas de eventos usando **Node.js**, **Express**, **Se
 
 ### 1️⃣ Clona el proyecto
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/leofru2002/ExamenU3Distribuidas
 cd event-booking-system
